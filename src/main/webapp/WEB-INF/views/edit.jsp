@@ -15,8 +15,7 @@
         First Name<br/>
         <form:input path="firstName"/>
     </p>
-    <p>
-        Last Name<br/>
+    <p>Last Name<br/>
         <form:input path="lastName"/>
     </p>
     <input type="submit" value="Save"/>
